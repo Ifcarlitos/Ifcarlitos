@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/cover.jpg" alt="Carlos Romero Matarin — Software, datos y matemáticas" width="100%" />
+  <img src="./assets/cover-ifcarlitos.jpg" alt="Ifcarlitos — Software, datos y matemáticas" width="100%" />
 </p>
 
-# Hola, soy Carlos · @Ifcarlitos
+# Ifcarlitos · Software, datos y matemáticas
 
 Desarrollo software y exploro problemas con datos y matemáticas. Aquí reúno herramientas de escritorio, proyectos de visión artificial y trabajos de análisis reproducible.
 
